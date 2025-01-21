@@ -23,42 +23,5 @@
                "hours_realized":1.5
             }
          ]
-      },
-      {
-         "invoice_id":"INV-002",
-         "date":"2025-01-01",
-         "activities":[
-            {
-               "activity":"Cantine",
-               "amount_eur":46.98,
-               "hours_billed":7.0,
-               "hours_realized":6.9
-            },
-            {
-               "activity":"Cantine",
-               "amount_eur":32.12,
-               "hours_billed":3.5,
-               "hours_realized":3.0
-            }
-         ]
-      },
-      {
-         "invoice_id":"INV-003",
-         "date":"2025-01-02",
-         "activities":[
-            {
-               "activity":"ACM",
-               "amount_eur":42.59,
-               "hours_billed":5.5,
-               "hours_realized":4.5
-            },
-            {
-               "activity":"Cantine",
-               "amount_eur":22.16,
-               "hours_billed":2.6,
-               "hours_realized":1.4
-            }
-         ]
       }
-   ]
 }
